@@ -4,6 +4,7 @@ import java.util.Scanner;
 import java.util.*;
 
 /**
+This file was provided by Jason Tully: CS Teacher 
  * Run a blokus client
  */
 
