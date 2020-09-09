@@ -6,6 +6,7 @@ Built a virtual game of Blockus with a user player and an AI player
 This game simulates a real life blockus board game with two players. However, this is with an AI and a user. There are two players one purple and one orange, one of them is the AI and the other one is the player. Constructed different AI's to see their efficacy against the player: one has random moves, one has strategic moves,  
 
 How it works: 
+
 BlokusBoard Class: Makes the declarations for the two colors, builds 2d array, playing components are kept track here/ status, the graphics of the orange and purple blocks are also in this class including the board, the movement of the pieces on the 2d array is done here, and each player skips and checks are done here. 
 
 Shape: moves the "blocks" in the game to move and see in specific direction like rotate or flipping it to put the block in the desired location these actions can be done. 
