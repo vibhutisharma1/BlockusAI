@@ -3,7 +3,7 @@ Built a virtual game of Blockus with a user player and an AI player
 
 ––Description–––
 
-This game simulates a real life blockus board game with two players. However, this is with an AI and a user. There are two players one purple and one orange, one of them is the AI and the other one is the player. Constructed different AI's to see their efficacy against the player: one has random moves, one has strategic moves,  
+This game simulates a real life blockus board game with two players. However, this is with an AI and a user. There are two players one purple and one orange, one of them is the AI and the other one is the player. Constructed different AI's to see their efficacy against the player: one has random moves, one has strategic moves,and one just tries to block the big pieces.   
 
 How it works: 
 
